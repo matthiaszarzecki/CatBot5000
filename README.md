@@ -1,5 +1,7 @@
 # CatBot5000
-Twitter-Bot that retweets cat-pictures, based on Darius Kazemi's ExampleBot
+Twitter-Bot that retweets tweets with the #cats hashtag (mostly pictures), based on Darius Kazemi's ExampleBot (https://github.com/dariusk/examplebot)
+
+CatBot5000 is on twitter here: https://twitter.com/cat_bot_5000
 
 ## Installation
 
